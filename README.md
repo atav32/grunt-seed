@@ -1,4 +1,4 @@
-grunt-seed
+Grunt Seed
 ==========
 
 A seed project for Grunt setup
